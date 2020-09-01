@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="61" failures="0" name="com.adactin.runner.TestRunner" time="0.089" errors="0" skipped="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_231\jre\bin"/>
+    <property name="java.vm.version" value="25.231-b11"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="D:\Program Files\AV\AdactinCucumber2"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="D:\Program Files\AV\AdactinCucumber2"/>
+    <property name="java.runtime.version" value="1.8.0_231-b11"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_231\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\kalad\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="classworlds.conf" value="D:\Program Files\AV\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf2399747442828104170.tmp"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_231\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jre1.8.0_231/bin/server;C:/Program Files/Java/jre1.8.0_231/bin;C:/Program Files/Java/jre1.8.0_231/lib/amd64;C:\Program Files\Java\jre1.8.0_231;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\maven\bin;C:\Users\kalad\Downloads\apache-maven-3.6.3\bin;C:\Program Files\Git\cmd;C:\Users\kalad\AppData\Local\Microsoft\WindowsApps;;C:\Users\kalad\eclipse\java-2019-09\eclipse;;."/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\kalad"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="user.name" value="kalad"/>
+    <property name="java.class.path" value="C:\Users\kalad\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_1.13.0.20190716-1623\jars\plexus-classworlds-2.6.0.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_231\jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B clean verify"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_231"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_231\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_231\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_231\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_231\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_231\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_231\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_231\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_231\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_231\jre\classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="D:\Program Files\AV\AdactinCucumber2\EMBEDDED"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase classname="| AAAA | 1111 |" name="Given User Launch the adactin application" time="0.025"/>
+  <testcase classname="| AAAA | 1111 |" name="When User log into the application" time="0"/>
+  <testcase classname="| AAAA | 1111 |" name="Given User launch the application" time="0"/>
+  <testcase classname="| AAAA | 1111 |" name="When User enters the Valid &quot;AAAA&quot; in Username field" time="0"/>
+  <testcase classname="| AAAA | 1111 |" name="And User enters the Valid &quot;1111&quot; in Password field" time="0"/>
+  <testcase classname="| AAAA | 1111 |" name="And User clicks on the Login Button" time="0"/>
+  <testcase classname="| AAAA | 1111 |" name="Then User verify the Homepage navigates to the Search Hotel Page" time="0.012"/>
+  <testcase classname="| AAAA | 1111 |" name="| AAAA | 1111 |" time="0.017"/>
+  <testcase classname="| BBBB | 2222 |" name="Given User Launch the adactin application" time="0"/>
+  <testcase classname="| BBBB | 2222 |" name="When User log into the application" time="0"/>
+  <testcase classname="| BBBB | 2222 |" name="Given User launch the application" time="0"/>
+  <testcase classname="| BBBB | 2222 |" name="When User enters the Valid &quot;BBBB&quot; in Username field" time="0"/>
+  <testcase classname="| BBBB | 2222 |" name="And User enters the Valid &quot;2222&quot; in Password field" time="0.001"/>
+  <testcase classname="| BBBB | 2222 |" name="And User clicks on the Login Button" time="0.031"/>
+  <testcase classname="| BBBB | 2222 |" name="Then User verify the Homepage navigates to the Search Hotel Page" time="0"/>
+  <testcase classname="| BBBB | 2222 |" name="| BBBB | 2222 |" time="0.001"/>
+  <testcase classname="| RashmiAishwarya | Rashmi@1992 |" name="Given User Launch the adactin application" time="0"/>
+  <testcase classname="| RashmiAishwarya | Rashmi@1992 |" name="When User log into the application" time="0"/>
+  <testcase classname="| RashmiAishwarya | Rashmi@1992 |" name="Given User launch the application" time="0"/>
+  <testcase classname="| RashmiAishwarya | Rashmi@1992 |" name="When User enters the Valid &quot;RashmiAishwarya&quot; in Username field" time="0"/>
+  <testcase classname="| RashmiAishwarya | Rashmi@1992 |" name="And User enters the Valid &quot;Rashmi@1992&quot; in Password field" time="0"/>
+  <testcase classname="| RashmiAishwarya | Rashmi@1992 |" name="And User clicks on the Login Button" time="0"/>
+  <testcase classname="| RashmiAishwarya | Rashmi@1992 |" name="Then User verify the Homepage navigates to the Search Hotel Page" time="0"/>
+  <testcase classname="| RashmiAishwarya | Rashmi@1992 |" name="| RashmiAishwarya | Rashmi@1992 |" time="0"/>
+  <testcase classname="Scenario: Verify the User is in Search Hotel page" name="Given User Launch the adactin application" time="0.001"/>
+  <testcase classname="Scenario: Verify the User is in Search Hotel page" name="When User log into the application" time="0"/>
+  <testcase classname="Scenario: Verify the User is in Search Hotel page" name="When User selects the Location &quot;Sydney&quot;  as &quot;visibletext&quot; in the Select location field" time="0"/>
+  <testcase classname="Scenario: Verify the User is in Search Hotel page" name="And User selects the Hotel &quot;Hotel Hervey&quot; as &quot;visibletext&quot; in the Select Hotel field" time="0"/>
+  <testcase classname="Scenario: Verify the User is in Search Hotel page" name="And User selects the Roomtype &quot;Deluxe&quot; as &quot;visibletext&quot; in the Select Room type field" time="0"/>
+  <testcase classname="Scenario: Verify the User is in Search Hotel page" name="And User selects Number of rooms &quot;3 - Three&quot; as &quot;visibletext&quot;" time="0"/>
+  <testcase classname="Scenario: Verify the User is in Search Hotel page" name="And User enters the valid date &quot;11/08/2020&quot; in Check In Date field" time="0"/>
+  <testcase classname="Scenario: Verify the User is in Search Hotel page" name="And User enters the valid date &quot;13/08/2020&quot; in Check Out Date field" time="0"/>
+  <testcase classname="Scenario: Verify the User is in Search Hotel page" name="And User selects Adults per Room &quot;2 - Two&quot; as &quot;visibletext&quot;" time="0"/>
+  <testcase classname="Scenario: Verify the User is in Search Hotel page" name="And User selects Child per Room &quot;4 - Four&quot; as &quot;visibletext&quot;" time="0"/>
+  <testcase classname="Scenario: Verify the User is in Search Hotel page" name="And User clicks on the Search Button to search for the details" time="0"/>
+  <testcase classname="Scenario: Verify the User is in Search Hotel page" name="Then User verify the Search Hotel page navigates to the Select Hotel page" time="0"/>
+  <testcase classname="Scenario: Verify the User is in Search Hotel page" name="Scenario: Verify the User is in Search Hotel page" time="0.001"/>
+  <testcase classname="Scenario: Verify the User is in Select Hotel Page" name="Given User Launch the adactin application" time="0"/>
+  <testcase classname="Scenario: Verify the User is in Select Hotel Page" name="When User log into the application" time="0"/>
+  <testcase classname="Scenario: Verify the User is in Select Hotel Page" name="When User selects the hotel from Select Hotel Page" time="0"/>
+  <testcase classname="Scenario: Verify the User is in Select Hotel Page" name="And User clicks on the Continue Button" time="0"/>
+  <testcase classname="Scenario: Verify the User is in Select Hotel Page" name="Then User verify the Select Hotel page navigates to the Book A Hotel page" time="0"/>
+  <testcase classname="Scenario: Verify the User is in Select Hotel Page" name="Scenario: Verify the User is in Select Hotel Page" time="0"/>
+  <testcase classname="Scenario: Verify the User is in Book A Hotel page" name="Given User Launch the adactin application" time="0"/>
+  <testcase classname="Scenario: Verify the User is in Book A Hotel page" name="When User log into the application" time="0"/>
+  <testcase classname="Scenario: Verify the User is in Book A Hotel page" name="When User enters the Valid &quot;Rashmi&quot; in First Name field" time="0"/>
+  <testcase classname="Scenario: Verify the User is in Book A Hotel page" name="And User enters the Valid &quot;G&quot; in Last Name field" time="0"/>
+  <testcase classname="Scenario: Verify the User is in Book A Hotel page" name="And User enters the Valid &quot;abc nagar&quot; in Billing Address field" time="0"/>
+  <testcase classname="Scenario: Verify the User is in Book A Hotel page" name="And User enters the Valid &quot;1234567812345678&quot; in Credit Card No. field" time="0"/>
+  <testcase classname="Scenario: Verify the User is in Book A Hotel page" name="And User selects the Credit Card Type &quot;American Express&quot; as &quot;visibletext&quot; in the Credit card type field" time="0"/>
+  <testcase classname="Scenario: Verify the User is in Book A Hotel page" name="And User selects the Expiry Month &quot;4&quot; as &quot;value&quot;" time="0"/>
+  <testcase classname="Scenario: Verify the User is in Book A Hotel page" name="And User selects the Expiry Year &quot;2014&quot; as &quot;value&quot;" time="0"/>
+  <testcase classname="Scenario: Verify the User is in Book A Hotel page" name="And User enters the Valid &quot;123&quot; in CVV Number field" time="0"/>
+  <testcase classname="Scenario: Verify the User is in Book A Hotel page" name="And User clicks on the Book Now Button" time="0"/>
+  <testcase classname="Scenario: Verify the User is in Book A Hotel page" name="Then User verify the Book A Hotel page navigates to the Booking Confirmation page" time="0"/>
+  <testcase classname="Scenario: Verify the User is in Book A Hotel page" name="Scenario: Verify the User is in Book A Hotel page" time="0"/>
+  <testcase classname="Scenario: Verify the User is able to logout the application" name="Given User Launch the adactin application" time="0"/>
+  <testcase classname="Scenario: Verify the User is able to logout the application" name="When User log into the application" time="0"/>
+  <testcase classname="Scenario: Verify the User is able to logout the application" name="When User clicks on Logout Button in the Booking Confirmation page" time="0"/>
+  <testcase classname="Scenario: Verify the User is able to logout the application" name="Then User verify the Booking Confirmation page navigates to the Home page again" time="0"/>
+  <testcase classname="Scenario: Verify the User is able to logout the application" name="Scenario: Verify the User is able to logout the application" time="0"/>
+</testsuite>
